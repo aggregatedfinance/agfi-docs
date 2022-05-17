@@ -1,11 +1,13 @@
+=========
+Links
+=========
+
+.. autosummary::
+   :toctree: generated
+
 .. warning::
 
    This document is derived from the AGFI V1 Whitepaper, and is currently being rewritten for the AGFI V3 DAO.
-
-Contents
---------
-
-.. toctree::
 
 Abstract
 ========
