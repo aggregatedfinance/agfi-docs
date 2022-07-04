@@ -32,7 +32,9 @@ Community
 Development
 -----------
 
-* `Github <https://github.com/aggregatedfinance>`_
+* `aggregatedfinance/agfi-website <https://github.com/aggregatedfinance/agfi-website>`_
+* `aggregatedfinance/agfi-contracts <https://github.com/aggregatedfinance/agfi-contracts>`_
+* `aggregatedfinance/agfi-dao <https://github.com/aggregatedfinance/agfi-dao>`_
 
 --------
 Treasury
