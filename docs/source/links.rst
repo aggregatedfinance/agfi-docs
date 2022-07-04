@@ -7,6 +7,15 @@ Links
 
 This document details all links to external services for the AGFI project.
 
+---------
+Interface
+---------
+
+* `Main Website <https://aggregated.finance>`_
+* `Fleek Hosting <https://aggregatedfinance.on.fleek.co>`_
+* `ETH.link ENS Address <https://aggregatedfinance.eth.link>`_
+* `ETH.limo ENS Address Backup <https://aggregatedfinance.eth.limo>`_
+
 ----
 News
 ----
